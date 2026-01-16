@@ -1,0 +1,5 @@
+{
+  "name": "Notepad Pro",
+  "description": "A high-performance, offline-first notepad application with auto-save, pinning, and advanced sorting, designed with a clean mobile-native aesthetic using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
